@@ -3,9 +3,10 @@ const CONFIG = {
   profile: {
     name: "Shanick Gauthier",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "Fullstack Engineer",
+    role: "Fullstack engineer",
+    bio: "I develop everything using node.",
     email: "shanlogauthier@gmail.com",
-    linkedin: "Shanick Gauthier",
+    linkedin: "Shanick Gauthier Cuvelier",
     github: "shanickcuello",
     instagram: "shanickx",
   },
