@@ -14,14 +14,14 @@ const CONFIG = {
             "team, someone who is always pushing to improve, optimize processes\n" +
             "and actively participate in the entire agile cycle. Always learning.",
         email: "shanlogauthier@gmail.com",
-        linkedin: "Shanick Gauthier Cuvelier",
+        linkedin: "shanickcuellocuvelier",
         github: "shanickcuello",
         instagram: "shanickx",
     },
     projects: [
         {
-            name: `Shanick`,
-            href: "https://github.com/shanickcuello",
+            name: `Linktr`,
+            href: "https://linktr.ee/shanick",
         },
     ],
     blog: {
