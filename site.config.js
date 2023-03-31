@@ -2,9 +2,17 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "Shanick Gauthier",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/avatar.png",
     role: "Fullstack engineer",
-    bio: "I develop everything using node.",
+    bio: "I'm a software engineer specialized in mobile.\n" +
+        "I have 6 years of experience as a Software Engineer specializing in\n" +
+        "Mobile, Backend and VideoGames development. I am very concerned\n" +
+        "about solid patterns, Test Driven Development (TDD) and Domain\n" +
+        "Driven Design (DDD) among other design patterns. I like working in\n" +
+        "algorithms for AI and NPCs.\n" +
+        "But I'm not just a developer. I am also that spark of motivation for the\n" +
+        "team, someone who is always pushing to improve, optimize processes\n" +
+        "and actively participate in the entire agile cycle. Always learning.",
     email: "shanlogauthier@gmail.com",
     linkedin: "Shanick Gauthier Cuvelier",
     github: "shanickcuello",
@@ -12,24 +20,23 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `Shanick`,
+      href: "https://github.com/shanickcuello",
     },
   ],
-  // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
-    theme: "light", // ['light', 'dark', 'auto']
+    title: "Shanick blog",
+    description: "welcome to shanick blog!",
+    theme: "dark", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-log.vercel.app",
-  since: 2022, // If leave this empty, current year will be used.
+  link: "https://blog-5ja3fim1v-shanickcuello.vercel.app/?order=desc",
+  since: 2023, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
   seo: {
-    keywords: ["Blog", "Website", "Notion"],
+    keywords: ["Blog", "Website", "Notion", "Shanick", "Shanick Gauthier Cuello", "Software engineer", "Unity developer"],
   },
 
   // notion configuration (required)
